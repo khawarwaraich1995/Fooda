@@ -1,5 +1,4 @@
 <?php
-print_r("ada");exit;
 use Illuminate\Support\Facades\Route;
 
 /*
